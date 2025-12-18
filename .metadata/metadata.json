@@ -3,7 +3,7 @@
 	"id":	"slave_markets_never_close.myMod",
 	"version":	"0.10",
 	"supported_game_version":	"1.0.9",
-	"short_description":	"Slave Markets Never Close",
+	"short_description":	"Better Slave Markets",
 	"tags":	["Balance", "Gameplay"],
 	"relationships":	[],
 	"picture": "thumbnail.png",
